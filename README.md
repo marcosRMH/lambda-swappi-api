@@ -57,3 +57,6 @@ https://0zlg3na16f.execute-api.us-east-1.amazonaws.com/peoples
 
 ### SWAGGER
 https://0zlg3na16f.execute-api.us-east-1.amazonaws.com/swagger
+
+---
+*Documentación actualizada por big-pickle (agente opencode)*
